@@ -1,0 +1,25 @@
+{
+  "url": "/api/top/iad/cn-north-1/2021-11-01/callAPI?path=/launchTask/qianchuan/searchLiveTemplates",
+  "type": "HTTP",
+  "method": "POST",
+  "request": {
+    "headers": {},
+    "queryParams": {
+    },
+    "body": {
+      "adPlatforms": [
+        "qianchuan"
+      ],
+      "paginationReq": {
+        "pageNo": "1",
+        "pageSize": "20"
+      },
+      "match": {
+        "appId": [],
+        "customId": [],
+        "marketingGoal": "${marketingGoal}",
+        "creativeMode": "${creativeMode}"
+      }
+    }
+  }
+}

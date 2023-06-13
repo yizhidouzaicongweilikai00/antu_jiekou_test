@@ -1,0 +1,10 @@
+[
+  {
+    "marketingGoal": ["LIVE_PROM_GOODS"],
+    "checkFields": ["marketingGoal"]
+  },
+  {
+    "creativeMode": ["CREATIVE_MATERIAL"],
+    "checkFields": ["creativeMode"]
+  }
+]
